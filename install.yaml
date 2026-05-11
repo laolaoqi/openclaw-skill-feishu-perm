@@ -1,0 +1,4 @@
+channels:
+  feishu:
+    tools:
+      perm: true  # Disabled by default - enable explicitly
