@@ -1,0 +1,11 @@
+{
+  "name": "Feishu Permission Manager Skill Pack",
+  "price": 19,
+  "currency": "USD",
+  "tier": "Tier 1",
+  "type": "skill-pack",
+  "target_audience": [
+    "Feishu admins",
+    "IT managers"
+  ]
+}
